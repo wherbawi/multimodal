@@ -9,6 +9,8 @@ public class Test {
 	public static void main(String[] arg) {
 		
 /**
+ * Edges labels: w,d,distance. w: walk is allowed, d: driving is allowed, distance: distance in meters.
+         
            (node 3 is a car2go)
 		            3 
 		           / \
